@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    padding: 5px;
+    background-color: rgb(56, 137, 230);
+    width: 100vw;
+    color: aliceblue
+}
